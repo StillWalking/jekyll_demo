@@ -1,10 +1,11 @@
 ---
 layout: default
-title: 引入 .c 文件出现的问题
+title: 利用github存储图片，在markdown引用图片链接地址
 ---  
 
 # 利用github存储图片，在markdown引用图片链接地址
-步骤如下：  
+>在写上一篇的时候发现不知道怎么将图片放到文章里，Google 结果如下：
+
 1.将markdown需要用的图片放到git仓库中，发布到github上   
 2.访问github仓库
 
