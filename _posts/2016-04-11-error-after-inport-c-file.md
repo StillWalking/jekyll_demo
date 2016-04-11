@@ -3,6 +3,7 @@ layout: default
 title: 引入 .c 文件出现的问题
 ---  
 
+# 引入 .c 文件出现的问题
 在做按字母排序的时候引入了一个第三方带有 .c 的文件，结果报了一堆类似于：Unknown type name 'NSString' 的错误，如图：  
 ![error_with_import_c_file.png](https://raw.githubusercontent.com/StillWalking/jekyll_demo/gh-pages/_resource/_images/error_with_import_c_file.png)
 
