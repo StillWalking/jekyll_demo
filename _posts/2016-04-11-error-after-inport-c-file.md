@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 你好，世界
+title: 引入 .c 文件出现的问题
 ---  
 
 在做按字母排序的时候引入了一个第三方带有 .c 的文件，结果报了一堆类似于：Unknown type name 'NSString' 的错误，如图：
