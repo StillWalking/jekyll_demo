@@ -3,7 +3,8 @@ layout: default
 title: 引入 .c 文件出现的问题
 ---  
 
-在做按字母排序的时候引入了一个第三方带有 .c 的文件，结果报了一堆类似于：Unknown type name 'NSString' 的错误，如图：
+在做按字母排序的时候引入了一个第三方带有 .c 的文件，结果报了一堆类似于：Unknown type name 'NSString' 的错误，如图：  
+![fsfrwr](../_resource/_images/error_with_import_c_file.png)
 
 Google 了一下发现是当前项目使用了 .pch 预处理文件会导致这个问题，具体原因不知（原谅我初中英语八级的水平没敢仔细看下去^-^)，解决方法是在预处理文件及 .pch 中添加：
 
