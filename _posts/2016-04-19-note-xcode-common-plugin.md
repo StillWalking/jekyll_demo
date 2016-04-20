@@ -1,9 +1,9 @@
 ---
 layout: default
-title: XCode 的常用插件
+title: Xcode 的常用插件
 ---  
 
-# XCode 的常用插件
+# Xcode 的常用插件
 
 Backlight  
 
