@@ -20,11 +20,13 @@ title: Xcode 的常用插件
 - RTImageAssets  
 
 - VVDocumenter-Xcode  
+描述：代码注释  
+使用：Windows -> VVDocumenter
+快捷键：直接输入三个斜杠 ///  
 
 - XToDo  
 
-- DXXcodeConsoleUnicodePlugin  
-描述：控制台打印中文  
-使用：Edit -> ConvertUnicodeInConsole  
-
-看来今天是没时间写了，还有项目要赶，明天有时间再把这些插件补充详情（P.S.记得之前有写过关于插件的文章，回头回去找找）
+- XAlign
+描述：代码对齐  
+使用：Edit -> XAlign   
+快捷键：Shift + Cmd + X  
